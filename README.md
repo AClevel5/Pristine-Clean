@@ -138,7 +138,7 @@ Contributor Covenant Code of Conduct
 
 ## Resources
 
-1. GitHub Repo: <https://github.com/stevecalla/pristine-clean-v2>
+1. GitHub Repo: <https://github.com/AClevel5/Pristine-Clean>
 3. Heroku Deploy: <https://pristine-clean.herokuapp.com/ >
 
 ## License
